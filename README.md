@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there, my name is Kien, and I am a student studying at Lasalle College passionate about web development, currently seeking an internship in a front-end position. I have a solid foundation in HTML5, CSS3, JavaScript, and React, and I'm expanding my skills by learning Node.js and MongoDB. I'm eager to apply my skills, contribute to real-world projects, and continue growing as a developer.
-
+Hi there, my name is Kien, and I'm a junior web developer and college student passionate about building interactive and user-friendly web applications. I specialize in front-end development and have experience working with HTML5, CSS3, JavaScript, and React. I’m currently expanding my skills in Node.js, MongoDB, and exploring animations with GSAP to create more engaging user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kien-nguyen-46bab22a1) 
