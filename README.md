@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I am a junior web developer with hands-on experience in front-end technologies like React and Next.js. I am also familiar with backend development and have worked with databases such as Firebase, MongoDB, and PostgreSQL. My skillset allows me to build user-friendly applications while ensuring robust backend functionality, making me a versatile contributor to any development team.
+My journey to become a developer began in 2023 when I started my studies at College LaSalle, Montréal. While building a strong foundation in school, I realized the importance of taking a more focused and dedicated approach to my career path. To deepen my knowledge and gain real-world experience, I immersed myself in the fundamentals and honed my skills with modern technologies like React and Next.js. My solid understanding also enables me to work efficiently with databases such as MongoDB, Firebase, and SQL Server. This growth stems from my commitment to continuous self-learning and my unwavering passion for programming.
 
 
 ## 🌐 Socials:
